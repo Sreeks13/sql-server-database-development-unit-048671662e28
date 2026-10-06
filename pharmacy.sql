@@ -62,3 +62,5 @@ IF NOT EXISTS
 
 PRINT 'ALL PHARMACY TESTS PASSED';
 GO
+
+-- Pharmacy inventory and expiry tracker complete
